@@ -1,0 +1,30 @@
+{
+  "name": "cucumber-to-playwright",
+  "version": "1.0.0",
+  "description": "A tool to convert Cucumber-js test to Playwright tests",
+  "main": "index.js",
+  "bin": {
+    "fts": "./index.js"
+  },
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azayzel/cucumber-to-playwright.git"
+  },
+  "keywords": [
+    "cucumber",
+    "playwright",
+    "ui",
+    "testing",
+    "cucumber-js"
+  ],
+  "author": "Josh Lavely <Josh@Lavely.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azayzel/cucumber-to-playwright/issues"
+  },
+  "homepage": "https://github.com/Azayzel/cucumber-to-playwright#readme"
+}
